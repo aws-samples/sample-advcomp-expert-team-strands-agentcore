@@ -1,0 +1,102 @@
+# Environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+lambda/agents/.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AWS
+.aws/
+.aws-sam/
+samconfig.toml
+
+# CDK
+cdk.out/
+.cdk.staging/
+cdk.context.json
+cdk-outputs.json
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Tests (contain secrets and credentials)
+tests/
+
+# Knowledge base operational data (environment-specific)
+utils/unsynced_docs.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+*~
+*.bak
+*.backup
+*.tmp
+*.swp
+*.swo
+
+# Security sensitive files
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secret*
+*.crt
+*.cer
+
+# Open source preparation tracking (internal use only)
+OPEN_SOURCE_PREP.md
+HANDOFF_PROMPT.md
+
+# Development documentation archive
+.archive/
+
+# Node modules
+node_modules/
+
+# Refactoring work-in-progress notes (if you create any with sensitive info)
+*_NOTES.md
+*_WIP.md
+
+# Blog drafts
+blog_*.md
