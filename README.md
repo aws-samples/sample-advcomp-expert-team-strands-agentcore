@@ -2,7 +2,7 @@
 
 > **Note**: This is a sample/demonstration project. It is not intended for production use without additional security hardening, permission scoping, and operational considerations.
 
-A multi-agent system that dynamically creates teams of specialized AI agents to answer questions about advanced computing topics. The system uses AWS Bedrock AgentCore, Strands Agents framework, and Model Context Protocol (MCP) for knowledge base access.
+A multi-agent system that dynamically creates teams of specialized AI agents to answer questions about advanced computing topics. The system uses Amazon Bedrock AgentCore, AWS Strands Agents, and Model Context Protocol (MCP) for knowledge base access.
 
 ## What This Does
 
