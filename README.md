@@ -310,7 +310,7 @@ MIT License - See LICENSE file for details
 
 ## Contributing
 
-This is a sample/reference project demonstrating multi-agent systems with AWS Bedrock AgentCore. Feel free to fork and adapt for your use cases.
+This is a sample/reference project demonstrating multi-agent systems with Amazon Bedrock AgentCore. Feel free to fork and adapt for your use cases.
 
 ## AWS Services Used
 
