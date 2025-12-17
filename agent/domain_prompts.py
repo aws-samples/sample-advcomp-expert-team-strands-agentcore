@@ -61,8 +61,8 @@ EFA (Elastic Fabric Adapter), and FSx for Lustre.
 **Focus areas:**
 - AWS PCS and ParallelCluster for cluster management
 - EFA networking for low-latency MPI workloads  
-- EC2 HPC instance types (C5n, M5n, R5n, etc.)
-- Storage solutions (FSx for Lustre, EBS, S3)
+- EC2 HPC instance types (Hpc7a, Hpc7g, Hpc6id)
+- Storage solutions (FSx for Lustre)
 - Cost optimization strategies for HPC workloads
 
 {HANDOFF_GUIDANCE}"""
